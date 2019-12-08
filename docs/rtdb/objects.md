@@ -32,7 +32,7 @@ export class AppComponent {
 }
 ```
 
-In this section, we're going to modify the `/src/app/app.component.ts`  to retrieve data as object.
+In this section, we're going to modify the `/src/app/app.component.ts` to retrieve the data as an object.
 
 ## Create an object binding
 
